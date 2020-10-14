@@ -1,5 +1,3 @@
-package generateorderdetails;
-
 import java.io.FileInputStream;
 import com.syncfusion.docio.*;
 import com.syncfusion.javahelper.system.RefSupport;

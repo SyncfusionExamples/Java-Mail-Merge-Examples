@@ -1,5 +1,3 @@
-package generateorderdetails;
-
 import com.syncfusion.javahelper.system.collections.generic.ListSupport;
 
 public class OrderDetails {

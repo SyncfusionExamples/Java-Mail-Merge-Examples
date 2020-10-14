@@ -1,5 +1,3 @@
-package generateorderdetails;
-
 public class ProductDetails {
 	private String m_orderID;
 	private String m_product;

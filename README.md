@@ -10,7 +10,7 @@ The Syncfusion [Word library](https://www.syncfusion.com/word-framework/net/word
 
 # Key Features
 
-- [Order details of a customer in Java](generateorderdetails/) - Generate order details of a customer using nested mail merge.
+- [Order details of a customer in Java](Generate-order-details-of-customer/) - Generate order details of a customer using nested mail merge.
 
 # Resources
 
