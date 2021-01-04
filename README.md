@@ -10,6 +10,7 @@ The Syncfusion [Java Word library](https://www.syncfusion.com/word-framework/jav
 
 # Key Features
 
+- [Mail merge in Java](mailmerge/) - How to mail merge Word document in Java.
 - [Order details of a customer in Java](Generate-order-details-of-customer/) - Generate order details of a customer using nested mail merge.
 
 # Resources
