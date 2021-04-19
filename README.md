@@ -14,7 +14,7 @@ The Syncfusion [Java Word library](https://www.syncfusion.com/word-framework/jav
 
 ## Jar files
 
-You can download the jars from the Syncfusion [maven repository][https://jars.syncfusion.com/?_ga=2.177721445.1332356717.1617771042-23317178.1569844681] to use our artifacts in your projects. It helps you to use the Syncfusion Java packages without installing Essential Studio or platform installation to development with Syncfusion controls.
+You can download the jars from the Syncfusion [maven repository](https://jars.syncfusion.com/?_ga=2.177721445.1332356717.1617771042-23317178.1569844681) to use our artifacts in your projects. It helps you to use the Syncfusion Java packages without installing Essential Studio or platform installation to development with Syncfusion controls.
 
 # Key Features
 
