@@ -8,10 +8,36 @@ Mail merge is a process of merging data (replacing merge fields) from a data sou
 
 The Syncfusion [Java Word library](https://www.syncfusion.com/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-mail-merge-examples) (Essential DocIO) has a powerful [Java mail merge API](https://www.syncfusion.com/word-framework/java/word-library/mail-merge?utm_source=github&utm_medium=listing&utm_campaign=java-mail-merge-examples) to generate personalized reports like letters, pre-addressed envelopes, address labels, invoice, payroll, and more. It performs mail merge faster in a batch process without Microsoft Word or Office interop dependencies. The generated reports can be saved as a Word document, HTML, and more.
 
+<p align="center"> 
+<img src="screenshots/Mail-merge-in-Word-library.png" alt="Mail-merge-in-Word-library"/> 
+</p>
+
+## Jar files
+
+You can download the jars from the Syncfusion [maven repository](https://jars.syncfusion.com/?_ga=2.177721445.1332356717.1617771042-23317178.1569844681) to use our artifacts in your projects. It helps you to use the Syncfusion Java packages without installing Essential Studio or platform installation to development with Syncfusion controls.
+
 # Key Features
 
 - [Mail merge in Java](mailmerge/) - How to mail merge Word document in Java.
+
 - [Order details of a customer in Java](Generate-order-details-of-customer/) - Generate order details of a customer using nested mail merge.
+
+- [Envelopes for mailing in Java](createenvelopes/) - Create envelopes for mailings to the list of recipients.
+
+- [Create and send email messages in Java](createandsendmail/) - Create and send email messages by converting merged document to HTML.
+
+- [Personalized letters in Java](createpersonalizedletter/) - Create personalized letters for selected recipient from the mailing list.
+
+- [Product catalog in Java](productcatalog/) - Generate a product catalog and formatting the merged text.
+
+# Screenshots
+
+**Envelopes for mailing**
+
+<p align="center"> 
+<img src="screenshots/Envelopes-for-mailing-output.png" alt="Envelopes-for-mailing in C#"/> 
+</p>
+
 
 # Resources
 
