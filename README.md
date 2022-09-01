@@ -16,7 +16,7 @@ You can download the jars from the Syncfusion [maven repository](https://jars.sy
 
 - [Mail merge in Java](mailmerge/) - How to mail merge Word document in Java.
 
-- [Order details of a customer in Java](Generateorderdetailsofcustomer/) - Generate order details of a customer using nested mail merge.
+- [Order details of a customer in Java](generateorderdetailsofcustomer/) - Generate order details of a customer using nested mail merge.
 
 - [Envelopes for mailing in Java](createenvelopes/) - Create envelopes for mailings to the list of recipients.
 
