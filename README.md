@@ -1,16 +1,12 @@
-# Java-Mail-Merge-Examples
+# Java Mail Merge Examples
 
-This repository contains examples that illustrates how to mail merge Word documents in Java using Syncfusion’s [Java Word library](https://www.syncfusion.com/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-mail-merge-examples) (Essential DocIO) without Microsoft Word or Office interop dependencies.
+This repository contains examples that illustrates how to mail merge Word documents in Java using Syncfusion’s [Java Word library](https://www.syncfusion.com/document-processing/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-mail-merge-examples) (Essential DocIO) without Microsoft Word or Office interop dependencies.
 
 # Mail merge in Word documents
 
 Mail merge is a process of merging data (replacing merge fields) from a data source into the template Word document.
 
-The Syncfusion [Java Word library](https://www.syncfusion.com/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-mail-merge-examples) (Essential DocIO) has a powerful [Java mail merge API](https://www.syncfusion.com/word-framework/java/word-library/mail-merge?utm_source=github&utm_medium=listing&utm_campaign=java-mail-merge-examples) to generate personalized reports like letters, pre-addressed envelopes, address labels, invoice, payroll, and more. It performs mail merge faster in a batch process without Microsoft Word or Office interop dependencies. The generated reports can be saved as a Word document, HTML, and more.
-
-<p align="center"> 
-<img src="screenshots/Mail-merge-in-Word-library.png" alt="Mail-merge-in-Word-library"/> 
-</p>
+The Syncfusion [Java Word library](https://www.syncfusion.com/document-processing/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-mail-merge-examples) (Essential DocIO) has a powerful [Java mail merge API](https://www.syncfusion.com/document-processing/word-framework/java/word-library/mail-merge?utm_source=github&utm_medium=listing&utm_campaign=java-mail-merge-examples) to generate personalized reports like letters, pre-addressed envelopes, address labels, invoice, payroll, and more. It performs mail merge faster in a batch process without Microsoft Word or Office interop dependencies. The generated reports can be saved as a Word document, HTML, and more.
 
 ## Jar files
 
@@ -20,7 +16,7 @@ You can download the jars from the Syncfusion [maven repository](https://jars.sy
 
 - [Mail merge in Java](mailmerge/) - How to mail merge Word document in Java.
 
-- [Order details of a customer in Java](Generate-order-details-of-customer/) - Generate order details of a customer using nested mail merge.
+- [Order details of a customer in Java](Generateorderdetailsofcustomer/) - Generate order details of a customer using nested mail merge.
 
 - [Envelopes for mailing in Java](createenvelopes/) - Create envelopes for mailings to the list of recipients.
 
@@ -41,7 +37,7 @@ You can download the jars from the Syncfusion [maven repository](https://jars.sy
 
 # Resources
 
-- **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples)
+- **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/document-processing/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples)
 
 - **Documentation:** [Getting started to Syncfusion Java Word library](https://help.syncfusion.com/java-file-formats/word-library/getting-started?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples)
 
