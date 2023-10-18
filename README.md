@@ -56,19 +56,10 @@ Take a moment to peruse the [documentation](https://help.syncfusion.com/java-fil
 *   Creates, reads, and edits popular text file formats like [DOCX](https://help.syncfusion.com/java-file-formats/word-library/word-file-formats?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples#word-open-xml-formats-2007--later), [DOTX](https://help.syncfusion.com/java-file-formats/word-library/word-file-formats?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples#templates), DOTM, [DOCM](https://help.syncfusion.com/java-file-formats/word-library/word-file-formats?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples#macros), [WordML](), [RTF](https://help.syncfusion.com/java-file-formats/word-library/rtf?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Text](https://help.syncfusion.com/java-file-formats/word-library/text?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [HTML](https://help.syncfusion.com/java-file-formats/word-library/html?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
 *   Converts Word documents also to [RTF](https://help.syncfusion.com/java-file-formats/word-library/rtf?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), [Text](https://help.syncfusion.com/java-file-formats/word-library/text?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples), and  [HTML](https://help.syncfusion.com/java-file-formats/word-library/html?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples).
 
-## How to run the examples
-
-- Download this project to a location in your disk.
-- Open the solution file using Visual Studio.
-- Rebuild the solution to install the required NuGet packages.
-- Run the application.
-
 ## Resources
 
 - **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/document-processing/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
 - **Documentation:** [Mail merge using Syncfusion Java Word library](https://help.syncfusion.com/java-file-formats/word-library/working-with-mail-merge?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
-- **GitHub Examples:** [Syncfusion Word library examples](https://github.com/SyncfusionExamples/DocIO-Examples?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
-- **Online demo:** [Syncfusion Word library - Online demos](https://ej2.syncfusion.com/aspnetcore/DocIO/SalesInvoice?utm_source=github&utm_medium=listing&utm_campaign=github-docio-examples)
 
 ## Support and feedback
 
